@@ -26,6 +26,7 @@
     "@angular/router": "~8.2.14",
     "@nguniversal/express-engine": "^8.2.6",
     "@nguniversal/module-map-ngfactory-loader": "v8.2.6",
+    "@types/pug": "^2.0.4",
     "express": "^4.15.2",
     "pug": "^2.0.4",
     "rxjs": "~6.4.0",
